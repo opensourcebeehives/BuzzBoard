@@ -1,0 +1,10 @@
+# particle.ignore
+.ds_store
+wake_adxl.cpp
+blink.ino
+main_beta_mem_SHT.cpp
+main_beta_mem_MMA.cpp
+geolocate.cpp
+PCBA-test.cpp
+ADCDMA.cpp
+ADCDMA.h
