@@ -6,6 +6,7 @@ Initial release of open source resources for BuzzBoard PCBA
 Maintained repositories are split and located here:
 
 Hardware: https://github.com/opensourcebeehives/BuzzBoard_hardware
+
 Firmware: https://github.com/opensourcebeehives/BuzzBoard_firmware
 
 
